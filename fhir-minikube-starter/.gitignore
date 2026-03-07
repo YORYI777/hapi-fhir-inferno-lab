@@ -1,0 +1,13 @@
+# SO
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Shell artifacts
+*.log
+
+# Kubernetes
+*.yaml.orig

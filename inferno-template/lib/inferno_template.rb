@@ -1,0 +1,1 @@
+require_relative 'inferno_template/example_suite'
